@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RatingApp</string>
+    <string name="rate">Rate the Product</string>
+    <string name="action_settings">Settings</string>
+</resources>
